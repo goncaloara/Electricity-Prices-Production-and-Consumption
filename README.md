@@ -1,1 +1,1 @@
-trabalho Visualização Interativa.
+The main objective of this project was to explore open data related to the Portuguese electricity system, covering topics such as electricity prices, consumption patterns, and the breakdown of production. The analysis was carried out using Power BI software, which  allowed for the development of interactive charts and visualizations that facilitate a deeper understanding of the dynamics of the electricity sector in Portugal
